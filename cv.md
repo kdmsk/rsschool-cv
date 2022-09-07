@@ -9,6 +9,7 @@
 - **Email:** kdmlwf@gmail.com
 - **Scype:** denis_kucyi
 - **GitHub:** [kdmsk](https://github.com/kdmsk)
+- **Discord:** Denis Kutsy
 
 ## About me
 
@@ -20,7 +21,7 @@ I study web development and am open to new knowledge. I am well versed in someon
 
 ---
 
-- **Russian:** C2 (Professional)r
+- **Russian:** C2 (Professional)
 - **Ukrainian:** C2 (Professional)
 - **English:** A2 (Elementary)
 
