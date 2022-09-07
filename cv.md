@@ -35,3 +35,18 @@ I study web development and am open to new knowledge. I am well versed in someon
 - Figma, Avocode
 - Git
 - Trello
+
+## Education
+
+---
+
+- 2015 **Odessa National Polytechnic University:** Bachelor
+  - _Electrical energetics, electrical engineering and electromechanics_
+
+## Courses
+
+---
+
+- 2017 **Netology:** _HTML/CSS layout_
+- 2020 **Educoin:** _Web development - practical basics_
+- 2021 **SoloLearn:** _Java Script Basics_
