@@ -4,6 +4,7 @@
 
 ---
 
+- **Location:** Kakhovka, Ukraine
 - **Phone:** +380508598549 ![](https://tehnavi.ru/files/img/telegram.jpg)
 - **Email:** kdmlwf@gmail.com
 - **Scype:** denis_kucyi
@@ -19,7 +20,7 @@ I study web development and am open to new knowledge. I am well versed in someon
 
 ---
 
-- **Russian:** C2 (Professional)
+- **Russian:** C2 (Professional)r
 - **Ukrainian:** C2 (Professional)
 - **English:** A2 (Elementary)
 
