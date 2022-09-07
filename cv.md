@@ -37,6 +37,18 @@ I study web development and am open to new knowledge. I am well versed in someon
 - Git
 - Trello
 
+## Code example
+
+---
+
+```
+const soundSpeed = 335;
+
+function soundCoveredDistance (){
+    alert (document.getElementById('time').value*soundSpeed+ " м");
+}
+```
+
 ## Education
 
 ---
